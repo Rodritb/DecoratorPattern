@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\DonkeyKong_SIS457\\DecoratorPattern\\Source\\DecoratorPattern\\DecoratorPattern.Build.cs",
+		"F:\\DonkeyKong_SIS457\\DecoratorPattern\\Source\\DecoratorPattern.Target.cs",
+		"F:\\DonkeyKong_SIS457\\DecoratorPattern\\Source\\DecoratorPatternEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

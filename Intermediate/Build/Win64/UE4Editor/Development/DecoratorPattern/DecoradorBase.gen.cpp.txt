@@ -1,0 +1,7 @@
+F:\DonkeyKong_SIS457\DecoratorPattern\Intermediate\Build\Win64\UE4Editor\Development\DecoratorPattern\Definitions.DecoratorPattern.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Source\DecoratorPattern/DecoradorBase.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Source\DecoratorPattern\IDecorador.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Intermediate\Build\Win64\UE4Editor\Inc\DecoratorPattern\IDecorador.generated.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Intermediate\Build\Win64\UE4Editor\Inc\DecoratorPattern\DecoradorBase.generated.h

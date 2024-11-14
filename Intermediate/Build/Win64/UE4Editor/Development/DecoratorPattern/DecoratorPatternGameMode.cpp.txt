@@ -1,0 +1,17 @@
+F:\DonkeyKong_SIS457\DecoratorPattern\Intermediate\Build\Win64\UE4Editor\Development\DecoratorPattern\Definitions.DecoratorPattern.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Source\DecoratorPattern\DecoratorPatternGameMode.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Intermediate\Build\Win64\UE4Editor\Inc\DecoratorPattern\DecoratorPatternGameMode.generated.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Source\DecoratorPattern\DecoratorPatternCharacter.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Source\DecoratorPattern\IDecorador.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Intermediate\Build\Win64\UE4Editor\Inc\DecoratorPattern\IDecorador.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+F:\DonkeyKong_SIS457\DecoratorPattern\Intermediate\Build\Win64\UE4Editor\Inc\DecoratorPattern\DecoratorPatternCharacter.generated.h
